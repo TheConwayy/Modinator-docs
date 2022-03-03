@@ -25,6 +25,8 @@ Also, you will find many different symbols throughout this documentation. You ca
 
 **The default prefix is `/`**
 
+------
+
 ## Help Commands
 
 | Command         | Description                                                            |
