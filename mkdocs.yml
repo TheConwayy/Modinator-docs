@@ -2,6 +2,7 @@ site_name: Modinator
 site_description: The official website and documentation for the Modinator Discord Bot
 site_url: http://modinator.tk
 site_author: Devin Conway
+repo_url: https://github.com/TheConwayy/Modinator-docs
 
 theme:
   name: null
@@ -14,6 +15,6 @@ nav:
   - Installiation:
     - Configuration: config.md
   - Commands:
-    - Help Commands: 'help.md'
-    - Moderation Commands: 'commands.md'
-    - Utility Commands: 'utility.md'
+    - Help Commands: 'help-commands.md'
+    - Moderation Commands: 'mod-commands.md'
+    - Utility Commands: 'utility-commands.md'
