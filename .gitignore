@@ -2,3 +2,6 @@
 
 # Ignore the WakaTime files
 .wakatime-project
+
+# Ignore VSCode folder.. No one needs that, nothing special
+.vscode/
