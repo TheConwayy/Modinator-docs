@@ -1,0 +1,4 @@
+# Git will ingore the following files and/or directories
+
+# Ignore the WakaTime files
+.wakatime-project

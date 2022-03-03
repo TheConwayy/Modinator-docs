@@ -1,0 +1,20 @@
+site_name: Modinator
+site_description: The official website and documentation for the Modinator Discord Bot
+site_url: http://modinator.tk
+site_author: Devin Conway
+
+theme:
+  name: null
+  custom_dir: 'cinder'
+  disable_footer: true
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Installiation:
+    - Configuration: config.md
+    - Hosting: hosting.md
+  - Commands:
+    - Help Commands: 'help.md'
+    - Moderation Commands: 'commands.md'
+    - Utility Commands: 'utility.md'
