@@ -13,7 +13,6 @@ nav:
   - Getting Started: getting-started.md
   - Installiation:
     - Configuration: config.md
-    - Hosting: hosting.md
   - Commands:
     - Help Commands: 'help.md'
     - Moderation Commands: 'commands.md'
