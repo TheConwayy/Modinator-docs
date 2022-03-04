@@ -19,6 +19,6 @@ nav:
     - Moderation Commands: 'mod-commands.md'
     - Utility Commands: 'utility-commands.md'
   - Modinator LITE:
-    - About: 'about-lite.md'
+    - About: 'lite.md'
     - Download: 'download-lite.md'
     - Commands: 'lite-commands.md'
