@@ -15,7 +15,7 @@ Modinator was developed from the ground up by Devin Conway.
 
 There are a lot of things that make this bot different from the others. The main one being though is that the main purpose of this bot is for moderation purposes, and nothing more, and nothing less. Unless you buy an addon of course.
 
-Along with that, the core functions (kicking, banning, etc.) are offered for free and are even open source. You can find more information **[here](http://modinator.tk/lite)**
+Along with that, the core functions (kicking, banning, etc.) are offered for free and are even open source. You can find more information **[here](http://modinatorbot.tk/lite)**
 
 While there are many other things to point out about the bot, these are the main things that make Modinator stand out.
 
@@ -32,7 +32,7 @@ Other than all of that. I'm just your normal, everyday teen that goes to school,
 
 ## Where to get Modinator
 
-If you are looking to purchase Modinator, just join [this](http://modinator.tk/discord) Discord and create a purchase ticket!
+If you are looking to purchase Modinator, just join [this](http://modinatorbot.tk/discord) Discord and create a purchase ticket!
 
 _If you do not want to click the link above, the invite link is:_
 
@@ -42,4 +42,4 @@ Already purchased the bot?
 
 AWESOME!
 
-Now head on over [here](http://modinator.tk/getting-started)
+Now head on over [here](http://modinatorbot.tk/getting-started)

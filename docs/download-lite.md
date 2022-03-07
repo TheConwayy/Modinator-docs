@@ -29,13 +29,13 @@ Be sure to download this to somewhere where you will remember it.
 
 ### Step 2 - Configure the bot
 
-Configuration for the bot is super easy, all you have to do is head on over to the <span style="text-decoration:underline;">**[config](https://modinator.tk/config)**</span> section.
+Configuration for the bot is super easy, all you have to do is head on over to the <span style="text-decoration:underline;">**[config](https://modinatorbot.tk/config)**</span> section.
 
 All instructions are the same, however some configuration options listed may not be available be available with the LITE version.
 
 ### Step 3 - Host the bot
 
-Hosting the bot is also very easy. Just head on over to the <span style="text-decoration:underline;">**[getting started](https://modinator.tk/getting-started)**</span> section. All options and steps are available with the LITE version
+Hosting the bot is also very easy. Just head on over to the <span style="text-decoration:underline;">**[getting started](https://modinatorbot.tk/getting-started)**</span> section. All options and steps are available with the LITE version
 
 ### Step 4 - Enjoy!
 

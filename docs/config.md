@@ -37,7 +37,7 @@ In the main file that you downloaded, you will see a folder that is named `confi
 >
 >   🧾 token.yml
 
-In the ["Getting Started"](https://modinator.tk/getting-started) section, you already went over everything that was needed for the `token.yml` file, but now we will be moving onto everything that is in the `config.yml`
+In the ["Getting Started"](https://modinatorbot.tk/getting-started) section, you already went over everything that was needed for the `token.yml` file, but now we will be moving onto everything that is in the `config.yml`
 
 ## Configuration Options
 
